@@ -11,7 +11,7 @@ int GetSum(int m, int n)
     }
 
     int step = 1;
-    if(m > n)
+    if (m > n)
     {
         step = -1;
     }
